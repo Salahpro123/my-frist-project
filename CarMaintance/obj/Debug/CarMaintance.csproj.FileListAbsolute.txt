@@ -1,0 +1,88 @@
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\bin\Debug\CarMaintance.exe.config
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\bin\Debug\CarMaintance.exe
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\bin\Debug\CarMaintance.pdb
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.csprojResolveAssemblyReference.cache
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.Form1.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.Properties.Resources.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.csproj.GenerateResource.Cache
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.exe
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.pdb
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.employee.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.addEmployee.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.updateEmployee.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.deleteEmployee.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.Customer.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.addCustomer.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.deleteCustomer.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.updateCustomer.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.addcars.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.cars.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.deleteCars.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.updateCars.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.addSparepart.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.deleteSpareparts.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.spareparts.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.updateSpareparts.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.addService.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.deleteService.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.updateService.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.services.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.addSupplier.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.deleteSupplier.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.supplier.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.updateSupplier.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.addList.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.deleteList.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.lists.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.updateList.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.moneyStorage.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.purchase.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.billCosts.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.reportServiveAndSpareparts.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.signup.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.paytheresultofCustomerMoney.resources
+C:\Users\slmandark\Documents\Visual Studio 2012\Projects\CarMaintance\CarMaintance\obj\Debug\CarMaintance.Form2.resources
+E:\Ai\CarMaintance\CarMaintance\bin\Debug\CarMaintance.exe.config
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.exe
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.pdb
+E:\Ai\CarMaintance\CarMaintance\bin\Debug\CarMaintance.exe
+E:\Ai\CarMaintance\CarMaintance\bin\Debug\CarMaintance.pdb
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.csprojResolveAssemblyReference.cache
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.addcars.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.addCustomer.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.addList.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.addSparepart.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.addSupplier.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.billCosts.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.cars.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.Customer.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.deleteCustomer.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.deleteList.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.deleteSpareparts.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.deleteSupplier.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.Form1.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.employee.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.addEmployee.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.deleteEmployee.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.deleteCars.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.addService.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.deleteService.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.Form2.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.lists.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.moneyStorage.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.paytheresultofCustomerMoney.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.purchase.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.reportServiveAndSpareparts.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.signup.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.supplier.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.updateList.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.updateService.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.services.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.spareparts.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.updateCars.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.Properties.Resources.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.updateCustomer.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.updateEmployee.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.updateSpareparts.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.updateSupplier.resources
+E:\Ai\CarMaintance\CarMaintance\obj\Debug\CarMaintance.csproj.GenerateResource.Cache
